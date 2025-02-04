@@ -1,30 +1,43 @@
-# MyGitHub
-<h1 align="center">Hi 👋, I'm Mazen Adel</h1>
-<h3 align="center">A Passionate Software Tester from Egypt</h3>
+# Hello, World! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazenadennnnnnn&label=Profile%20views&color=0e75b6&style=flat" alt="mazenadennnnnnn" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazenadennnnnnn" alt="mazenadennnnnnn" /></a> </p>
+My name is **Mazen Adel** from **Alexandria, Egypt**. I'm a dedicated and adaptable **Software Testing Engineer** with a strong foundation in various testing methodologies and tools. With experience in manual and automated testing, including **API testing**, **performance testing**, and **mobile testing**, I am proficient in using tools like **Jira**, **Postman**, **JMeter**, **TestNG**, **Selenium**, and many others. My technical skills extend to **Java**, **JavaScript**, **SQL**, and I am continuously expanding my expertise in software testing to keep up with the evolving tech landscape.
 
-- 🔭 I’m currently working on **gaining experience in software testing**
+I am currently focusing on **software testing automation** and am passionate about delivering high-quality products through thorough and meticulous testing. My problem-solving skills, attention to detail, and commitment to excellence make me an asset to any project or team.
 
-- 🌱 I’m currently learning **Selenium webdriver**
+✨ **Creating bugs since 2024**  
+🎯 **Goals:** To become proficient in automation testing and contribute to quality-driven teams that deliver high-value products.
 
-- 👯 I’m looking to collaborate on **manual and automation testing projects**
+If you're looking for a **reliable, results-oriented tester** who is committed to driving product quality, I would love to collaborate!
 
-- 🤝 I’m looking for help with **automation testing frameworks**
+## Skills & Expertise:
 
-- 💬 Ask me about **Software Testing, Test Case Design, and Bug Reporting**
+### Technologies and Tools:
 
-- 📫 How to reach me **https://www.linkedin.com/in/mazenadel23/**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mazenadel23/overlay/1738606433462/single-media-viewer/?profileId=ACoAAD4rByABLDIoYlSuBfFWjtzUZMfxuEix6zQ](https://www.linkedin.com/in/mazenadel23/overlay/1738606433462/single-media-viewer/?profileId=ACoAAD4rByABLDIoYlSuBfFWjtzUZMfxuEix6zQ)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mazenadel23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mazenadel23/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
+## Reach Out:
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/mazenadel23/) or view my professional CV here: [CV](https://drive.google.com/file/d/13QTKbQDh0PsGMFPj_cy7qA-yGhbeuWSl/view).

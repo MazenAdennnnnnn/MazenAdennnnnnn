@@ -11,6 +11,10 @@ I’m not just about finding bugs—I’m about **creating them** and watching t
 
 If you're looking for someone who is committed to delivering top-notch products and creating seamless user experiences, let's connect and collaborate!
 
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/mazenadel23/)
+- [CV](https://drive.google.com/file/d/13QTKbQDh0PsGMFPj_cy7qA-yGhbeuWSl/view)
+
 ### Technologies and Tools:
 
 <div align="left">
@@ -36,6 +40,3 @@ If you're looking for someone who is committed to delivering top-notch products 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-## <h2>Reach Out:</h2>
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/mazenadel23/) or view my professional CV here: [CV](https://drive.google.com/file/d/13QTKbQDh0PsGMFPj_cy7qA-yGhbeuWSl/view).

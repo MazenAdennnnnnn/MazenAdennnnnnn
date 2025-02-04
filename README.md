@@ -1,17 +1,17 @@
-# Hello, World! 👋
+# <h1>Hello, World! 👋</h1>
 
 ## About Me
 
-My name is **Mazen Adel** from **Alexandria, Egypt**. I'm a dedicated and adaptable **Software Testing Engineer** with a strong foundation in various testing methodologies and tools. With experience in manual and automated testing, including **API testing**, **performance testing**, and **mobile testing**, I am proficient in using tools like **Jira**, **Postman**, **JMeter**, **TestNG**, **Selenium**, and many others. My technical skills extend to **Java**, **JavaScript**, **SQL**, and I am continuously expanding my expertise in software testing to keep up with the evolving tech landscape.
+My name is **Mazen Adel**, and I'm a passionate **Software Testing Engineer**. I thrive on creating high-quality, reliable software through meticulous testing and a keen eye for detail. With a solid foundation in both manual and automated testing, I excel in ensuring that software meets the highest standards of quality. My expertise spans **API testing**, **performance testing**, **mobile testing**, and **automation**, using tools like **Jira**, **Selenium**, **Postman**, and many others.
 
-I am currently focusing on **software testing automation** and am passionate about delivering high-quality products through thorough and meticulous testing. My problem-solving skills, attention to detail, and commitment to excellence make me an asset to any project or team.
+I believe that testing is not just about finding bugs—it's about delivering a product that users can trust and enjoy. I'm driven by the challenge of identifying and resolving even the most elusive issues, and I strive for excellence in everything I do.
 
 ✨ **Creating bugs since 2024**  
-🎯 **Goals:** To become proficient in automation testing and contribute to quality-driven teams that deliver high-value products.
+I’m not just about finding bugs—I’m about **creating them** and watching them evolve into opportunities for growth! Every bug is a chance to dive deep into the code, uncover hidden issues, and improve the overall quality of the product. I approach every testing phase like a treasure hunt, where my goal is to uncover even the most elusive bugs that can impact the end-user experience.
 
-If you're looking for a **reliable, results-oriented tester** who is committed to driving product quality, I would love to collaborate!
+🎯 **Goals:** To master automation testing and become an integral part of a team that drives excellence in software quality.
 
-## Skills & Expertise:
+If you're looking for someone who is committed to delivering top-notch products and creating seamless user experiences, let's connect and collaborate!
 
 ### Technologies and Tools:
 
@@ -26,6 +26,8 @@ If you're looking for a **reliable, results-oriented tester** who is committed t
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=newman" height="40" alt="newman logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -37,7 +39,11 @@ If you're looking for a **reliable, results-oriented tester** who is committed t
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/JMeter_logo.svg/600px-JMeter_logo.svg.png" height="40" alt="jmeter logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/HP_LoadRunner_logo.svg" height="40" alt="hp loadrunner logo" />
 </div>
 
-## Reach Out:
+## <h2>Reach Out:</h2>
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mazenadel23/) or view my professional CV here: [CV](https://drive.google.com/file/d/13QTKbQDh0PsGMFPj_cy7qA-yGhbeuWSl/view).

@@ -1,7 +1,5 @@
 # <h1>Hello, World! 👋</h1>
 
-## About Me
-
 My name is **Mazen Adel**, and I'm a passionate **Software Testing Engineer**. I thrive on creating high-quality, reliable software through meticulous testing and a keen eye for detail. With a solid foundation in both manual and automated testing, I excel in ensuring that software meets the highest standards of quality. My expertise spans **API testing**, **performance testing**, **mobile testing**, and **automation**, using tools like **Jira**, **Selenium**, **Postman**, and many others.
 
 I believe that testing is not just about finding bugs—it's about delivering a product that users can trust and enjoy. I'm driven by the challenge of identifying and resolving even the most elusive issues, and I strive for excellence in everything I do.
@@ -26,8 +24,6 @@ If you're looking for someone who is committed to delivering top-notch products 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=newman" height="40" alt="newman logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -39,10 +35,6 @@ If you're looking for someone who is committed to delivering top-notch products 
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/JMeter_logo.svg/600px-JMeter_logo.svg.png" height="40" alt="jmeter logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/HP_LoadRunner_logo.svg" height="40" alt="hp loadrunner logo" />
 </div>
 
 ## <h2>Reach Out:</h2>
